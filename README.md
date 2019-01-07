@@ -4,7 +4,7 @@ LED-Headlamp For fishing, Gesture recognition(IR) left and right sensors. 1W LED
 LED Head Lamp                                      
 | function       | chip     | discription                       |                  
 | --------       | ----:    | :---------:                       |             
-| IR sensor      | IR928    | 940nm Infrared LED                |               
+| IR sensor******| IR928    | 940nm Infrared LED                |               
 | light control  | MP1488   | 1A pwm MODE                       |       
 | LED            | 120lm    | 350ma 120lm                       |           
 | Power_1        | MicroUSB | 350ma 120lm                       |          
